@@ -1,6 +1,3 @@
-Sure! Here’s a ready-to-use **README.md** you can put directly in your project folder:
-
-````markdown
 # Contract Analysis Multi-Agent System
 
 **AI-powered contract review system** using multiple specialized agents to analyze contracts from different perspectives: Structure, Legal, Negotiation, and Management. The project includes a **Streamlit web dashboard**, a **Telegram bot**, and a **main script** to run the system in VSCode or any IDE.
